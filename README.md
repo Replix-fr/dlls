@@ -26,5 +26,9 @@
 <form method="get" action="Bsu Client V9.dll">
   <button type="submit">Bsu Client</button>
 </form>
+<form method="get" action="https://notharmony.github.io/WatchMenu
+">
+  <button type="submit">Harmony Watch Menu</button>
+</form>
 </body>
 </html>
