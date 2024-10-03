@@ -1,3 +1,8 @@
+background-color: yellow;
+background-image: url("OIP.jpeg");
+background-repeat: repeat-x;
+background-position: right top;
+background-attachment: fixed;
 
 <html lang="en">
 <head>
