@@ -35,5 +35,8 @@ background-attachment: fixed;
 ">
   <button type="submit">Harmony Watch Menu</button>
 </form>
+    <form method="get" action="IIDumbK.dll">
+  <button type="submit">IIDumbK</button>
+</form>
 </body>
 </html>
