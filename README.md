@@ -38,5 +38,8 @@ background-attachment: fixed;
     <form method="get" action="IIDumbK.dll">
   <button type="submit">IIDumbK</button>
 </form>
+    <form method="get" action="Assembly-CSharp.dll">
+  <button type="submit">YAS</button>
+</form>
 </body>
 </html>
