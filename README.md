@@ -44,5 +44,8 @@ background-attachment: fixed;
         <form method="get" action="Harmony.lol-PCVR-V1.dll">
   <button type="submit">Harmomy Pcvr</button>
 </form>
+    <form method="get" action="PicoClientBeta.dll">
+  <button type="submit">pico client</button>
+</form>
 </body>
 </html>
