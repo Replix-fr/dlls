@@ -47,5 +47,14 @@ background-attachment: fixed;
     <form method="get" action="PicoClientBeta.dll">
   <button type="submit">pico client</button>
 </form>
+        <form method="get" action="LITER MENU.dll">
+  <button type="submit">liter</button>
+</form>
+        <form method="get" action="ShiabGTGenesis-REPLIXATE--New-.dll">
+  <button type="submit">shiba</button>
+</form>
+            <form method="get" action="ReplixClientV3.dll">
+  <button type="submit">replix</button>
+</form>
 </body>
 </html>
