@@ -53,8 +53,8 @@ background-attachment: fixed;
         <form method="get" action="ShiabGTGenesis-REPLIXATE--New-.dll">
   <button type="submit">shiba</button>
 </form>
-            <form method="get" action="ReplixClientV3.dll">
-  <button type="submit">replix</button>
+            <form method="get" action="Replix.zip">
+  <button type="submit">replix.zip</button>
 </form>
 </body>
 </html>
