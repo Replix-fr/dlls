@@ -56,5 +56,8 @@ background-attachment: fixed;
             <form method="get" action="Replix.zip">
   <button type="submit">replix.zip</button>
 </form>
+                <form method="get" action="Bsu Cosmetx Reel.dll">
+  <button type="submit">rgereg</button>
+</form>
 </body>
 </html>
