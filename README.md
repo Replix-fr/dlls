@@ -59,5 +59,8 @@ background-attachment: fixed;
                 <form method="get" action="Bsu Cosmetx Reel.dll">
   <button type="submit">rgereg</button>
 </form>
+     <form method="get" action="CR_Skibdi_thing.dll">
+  <button type="submit">TEST FOR CR SKIBI</button>
+</form>
 </body>
 </html>
